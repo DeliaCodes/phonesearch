@@ -2,6 +2,7 @@ A small search on whether a phone number is associated with fraudulent activity 
 
 To do design and front end
 - make search icon translucent and shrink it
+- add more icons and alt text
 - incorporate cyborg css theme
 - actual text for about
 - contact me form?
