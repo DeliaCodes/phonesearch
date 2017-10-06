@@ -1,1 +1,2 @@
-Enter a phone number and search whether or not this number is associated with fraudulent activity and any information associated with the number.
+A small search on whether a phone number is associated with fraudulent activity and any other information associated with the number.
+
