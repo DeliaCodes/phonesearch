@@ -1,6 +1,6 @@
 "use strict";
 
-var numverify_URL = 'http://apilayer.net/api/validate?access_key=YOUR_ACCESS_KEY  ';
+var numverify_URL = 'http://apilayer.net/api/validate?access_key=a7a160a67a230728efce44031b8c27fd';
 
 http://apilayer.net/api/validate
 
