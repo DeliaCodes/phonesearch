@@ -5,7 +5,7 @@ To do design and front end
 - add more icons and alt text
 - incorporate cyborg css theme
 - actual text for about
-- contact me form?
+- contact me form? - to send anything with front end page - have it goto a mail
 
 To do back end
 - capture form data
