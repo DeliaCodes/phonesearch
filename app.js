@@ -7,10 +7,13 @@
 
 //should access key be a string?
 var accessKey = 'a7a160a67a230728efce44031b8c27fd';
-var phoneNumber = '14154503696' ;
+var phoneNumber = '' ;
+
 
 // verify phone number via AJAX call
 $('#submit').click(function(){
+	phoneNumber = $('input').val();
+	
 $.ajax({
     url: 'http://apilayer.net/api/validate?access_key=' + accessKey + '&number=' + phoneNumber,   
     dataType: 'jsonp',
@@ -25,7 +28,7 @@ $.ajax({
 })
 
 //whitepages
-$.ajax()
+//$.ajax()
 });
 
 

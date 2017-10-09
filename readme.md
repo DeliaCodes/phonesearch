@@ -3,12 +3,10 @@ A small search on whether a phone number is associated with fraudulent activity 
 To do design and front end
 - make search icon translucent and shrink it
 - add more icons and alt text
-- incorporate cyborg css theme
 - actual text for about
 - contact me form? - to send anything with front end page - have it goto a mail
 
 To do back end
-- capture form data
 - send data to numverify api & get data back
 - console log that data - how to display
 - send data to WhitePages Pro (after whatever auth they need)

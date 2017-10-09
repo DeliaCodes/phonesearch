@@ -3,12 +3,12 @@
 }
 
 body {
-	background-color: black;
-	color: white;
+	padding-top: 4em;
 	margin: auto;
 	text-align: center;
 }
 
 footer div {
+	display: inline-block;
 
 }
