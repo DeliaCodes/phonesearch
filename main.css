@@ -1,4 +1,4 @@
-* {
+* { he
 	
 }
 
@@ -6,6 +6,19 @@ body {
 	padding-top: 4em;
 	margin: auto;
 	text-align: center;
+}
+
+h1 {
+	padding-bottom: 1em;
+}
+
+input {
+	width: 25em;
+}
+
+footer {
+	padding-top: 10em;
+	float: bottom;
 }
 
 footer div {
